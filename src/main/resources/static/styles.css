@@ -1,0 +1,204 @@
+
+.proj-top{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin-left: 40px;
+  display: block;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  border-radius: 306px;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+  border-radius: 306px;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+.menu{
+	font-size: 20px;
+	color: black;
+	 text-decoration: none;
+	margin-right: 70px;
+}
+.social{
+	position: absolute;
+	right: 10px;
+	margin-top: 30px;	
+}
+.social a{
+	display: block;
+	margin-top: 15px;
+	
+}
+
+.proj-topics{
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+.proj-topics a{
+	margin-left: 40px;
+	display: block;
+	text-align: left;
+}
+
+.proj-topics p{
+	margin-left: 40px;
+	text-align: left;
+}
+.topic-materials{
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	padding: 10px;
+    word-wrap: normal;
+	background-color:#f2f2f2;
+}
+
+.contact-container{
+	position: relative;
+	float: left;
+}
+
+.download-container{
+	border: 4px solid #f2f2f2;
+	padding: 5px;
+	margin-top: 80px;
+}
+
+.cusform{
+	border: 1px solid #f2f2f2;
+	padding: 10px;
+	
+}
+.cusform input{
+	width: 50%;
+	height: 50px;
+	margin-top: 10px;	
+}
+.footer-container{
+	position: relative;
+	
+}
